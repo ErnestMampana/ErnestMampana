@@ -1,4 +1,4 @@
-## Hi 👋 im Ernest Mohlala
+## Hi 👋 im Ernest 
 
 
 - 🔭 Java Developer | Mobile Application Developer
