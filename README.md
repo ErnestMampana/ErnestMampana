@@ -4,7 +4,7 @@
 - 🔭 Java Developer | Mobile Application Developer
 
 # 💫 About Me:
-I'm a Java Backend Developer with 6+ years of experience building scalable, secure, and maintainable enterprise applications. I specialize in Java, Spring Boot, and microservices, with most of my experience in the telecommunications industry, where I've worked on high-volume backend systems and service integrations.<br><br>I'm passionate about writing clean code, applying SOLID principles, and designing software that is easy to maintain and extend. I enjoy solving complex backend problems, improving system performance, and continuously learning new technologies.
+I'm a Java Backend Developer with 7+ years of experience building scalable, secure, and maintainable enterprise applications. I specialize in Java, Spring Boot, and microservices, with most of my experience in the telecommunications industry, where I've worked on high-volume backend systems and service integrations.<br><br>I'm passionate about writing clean code, applying SOLID principles, and designing software that is easy to maintain and extend. I enjoy solving complex backend problems, improving system performance, and continuously learning new technologies.
 
 
 ## 🌐 Socials:
